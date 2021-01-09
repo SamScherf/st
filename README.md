@@ -6,6 +6,7 @@ for personal use on my X200T
 ## Modifications 
 
 - Custom color scheme
+- Vim scrolling
 
 ## Color Scheme
 
@@ -22,4 +23,4 @@ Background Color: ![#1b1d1e](https://via.placeholder.com/15/1b1d1e/000000?text=+
 
 ## Patches
 
-There are currently no patches
+- scrollback
